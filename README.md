@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a web-based Employee Attendance System developed using Angular for the frontend and Spring Boot for the backend. The system provides functionalities for managing employee attendance records, generating reports, and analyzing attendance trends.
+This project is a web-based Employee Attendance System developed using Angular for the frontend, and Spring Boot for the backend. The system provides functionalities for managing employee attendance records, generating reports, and analyzing attendance trends.
 
 ## Gallery
 
